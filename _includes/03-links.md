@@ -1,2 +1,2 @@
-[Profile] (https://github.com/stepin104640)
+[Profile](https://github.com/stepin104640)
 
