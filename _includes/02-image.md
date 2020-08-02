@@ -1,1 +1,1 @@
-![Evening sunset from tree view] (file:///C:/Users/Mahe/Pictures/Tree_sunset.webp) .
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
